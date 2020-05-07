@@ -1,2 +1,2 @@
 # hello-world
-Just fue educational proposal
+Just for educational proposal
